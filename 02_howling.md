@@ -25,13 +25,13 @@ The Hierarchy of Human Needs
 Traditionally, Demons and Devils are organised according to ranks and hierarchies with Princes ruling lesser demons. The grimoires seem to imply that if Hell exists, then it is a bureaucracy, and so by the same token, Earthly bureaucracies are demonic structures - as anyone who has had any dealings with the DHSS will readily testify. The hierarchy used in the Babblogue was developed by the psychologist Abraham Maslow, to show how the various levels of need influence behaviour and motivation. His hierarchy of Human Needs is a pyramid of desires, ranging from biological survival needs (food, shelter, etc.) to more complex
 needs: 
 
-Biological hunger, thirst, warmth
-Safety i.e. freedom from fear
-Affiliative to be given consideration
-Esteem status, praise, belonging
-Cognitive intellectual stimulation
-Aesthetic culture, art
-Self-Actualization self-knowledge
+Biological hunger, thirst, warmth<br>
+Safety i.e. freedom from fear<br>
+Affiliative to be given consideration<br>
+Esteem status, praise, belonging<br>
+Cognitive intellectual stimulation<br>
+Aesthetic culture, art<br>
+Self-Actualization self-knowledge<br>
 
 According to Maslow, the needs at one level must be at least partially fulfilled before those on the next level become important - so aesthetic needs are not usually high on the list when one is starving. One can become possessed by onessurvival demons, and consequentially able to perform actions one would otherwise not consider. Air crash survivors resorting to cannibalism is an extreme example of this. In attempting to strip away the layers of my own psyche in this way, I was struck by the Russian-doll nature of the demons - that the roots of a cognitive value could be traced downwards into the levels of self-esteem, affiliation, and survival needs.
 
