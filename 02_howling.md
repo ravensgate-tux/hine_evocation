@@ -1,7 +1,7 @@
 # 
 🇬🇧 Howling 
 
-Mayhem speaks louder than words.
+Mayhem speaks louder than words.
 Brother Moebius B., L.O.O.N.
 
 The Babblogue:
