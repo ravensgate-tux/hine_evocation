@@ -102,42 +102,51 @@ Commentary
 
 人間の欲求階層について
 
-Traditionally, Demons and Devils are organised according to ranks and hierarchies with 'Princes' ruling lesser demons. The grimoires seem to imply that if Hell exists, then it is a bureaucracy, and so by the same token, Earthly bureaucracies are demonic structures - as anyone who has had any dealings with the DHSS will readily testify. The hierarchy used in the Babblogue was developed by the psychologist Abraham Maslow, to show how the various levels of 'need' influence behaviour and motivation. His hierarchy of Human Needs is a pyramid of desires, ranging from biological survival needs (food, shelter, etc.) to more complex
-needs: 
+伝統的に、悪魔やデーモンたちは階級や階層に従って組織されており、「王子」クラスが下位の悪魔たちを統治しているとされている。グリモワール（魔術書）を読むかぎり、もし地獄というものが存在するなら、それはひとつの官僚機構であり──それと同様に、この地上の官僚制こそが悪魔的構造である、と言わんばかりだ。実際、社会保障庁（DHSS）に関わったことのある人間なら誰でも、それを実感していることだろう。
 
-Biological hunger, thirst, warmth<br>
-Safety i.e. freedom from fear<br>
-Affiliative to be given consideration<br>
-Esteem status, praise, belonging<br>
-Cognitive intellectual stimulation<br>
-Aesthetic culture, art<br>
-Self-Actualization self-knowledge<br>
+「バブログ」で使用した階層モデルは、心理学者アブラハム・マズローによって提唱されたもので、人間の「欲求」がどのように行動や動機づけに影響を与えるかを示している。彼の欲求階層モデルはピラミッド構造になっており、最下層の生存欲求（食糧、住居など）から、より複雑な欲求へと順に構成されている： 
 
-According to Maslow, the needs at one level must be at least partially fulfilled before those on the next level become important - so aesthetic needs are not usually high on the list when one is starving. One can become 'possessed' by one's survival demons, and consequentially able to perform actions one would otherwise not consider. Air crash survivors resorting to cannibalism is an extreme example of this. In attempting to strip away the layers of my own psyche in this way, I was struck by the 'Russian-doll' nature of the demons - that the roots of a cognitive value could be traced downwards into the levels of self-esteem, affiliation, and survival needs.
+生理的欲求：  飢え、渇き、暖かさ<br>
+安全の欲求：  恐怖からの解放<br>
+所属の欲求：  他者から受け入れられること<br>
+承認の欲求：  地位、称賛、帰属意識<br>
+認知的欲求：  知的刺激<br>
+審美的欲求：  文化、芸術<br>
+自己実現の欲求： 自己理解<br>
+
+マズローによれば、上位の欲求が重要性を帯びるのは、下位の欲求がある程度満たされているときに限られる──つまり、飢えている状態では審美的欲求など優先順位の下に追いやられる。人は「生存の悪魔」に憑かれることで、ふだんならば決して選ばないような行動を取ることができるようになる。飛行機事故の生存者が共食いに走るのは、その極端な例である。
+
+このようにして自らの精神構造の層を一枚ずつ剥がしていく中で、私は悪魔たちの「マトリョーシカ（入れ子）構造」に気づかされた──たとえば、ある認知的価値の根っこを辿っていくと、それは自己評価や所属欲求、さらには生存欲求といったより根源的な層に連なっていたのである。
 
 This idea seems to be implied in the zoomorphic image of the man-beast. If we deny our demons then they are indeed outside and the self becomes a fortress, for an army at war with itself. In contrast, the Babblogue is a trial by catharsis, to understand and unify the dwellers within, rather than deny or subjugate them. 
 
-The Shaman's Journey
+シャーマンの旅路
 
-The central theme of all 'magical' retirements' of this nature is the journey within. Shamans world-wide, and the most powerful religious myths are concerned with this descent into chaos - the confrontation with death, the demon feast, trial by fire, communion with the dead - and the subsequent return - the realisation of power, and the subsequent return to Human affairs as an initiate. The core elements in this process can be summarised as follows:
+この種の「魔術的な隠遁」に共通する中心的テーマは、内面への旅である。世界中のシャーマンたち、そして最も力を持つ宗教神話の多くが語るのは、混沌への下降──死との対面、悪魔たちの饗宴、火による試練、死者との交信──そしてその後の帰還──力の獲得、そして入信者（イニシエイト）として人間世界へと戻る過程である。このプロセスの基本構造は、以下のように要約できる：
 
-Phase of Departure: Summons to depart, seperation from mundane life, descent. Phase of Initiation: Ordeals, the labyrinth, womb, whales' belly, guides and allies. Illumination/Transformation Phase of Return: Rebirth, return to world.Mastery
+出発の段階：旅立ちの召喚、日常生活からの分離、下降<br>
+通過儀礼の段階：試練、迷宮、子宮、鯨の腹、導き手と同伴者、啓示／変容<br>
+帰還の段階：再生、現世への帰還、熟達<br>
 
-Awareness of this process is a central theme of the contemporary approach to development which has come to be known as Chaos Magick, an approach which focuses on the examination and removal of belief structures, the cultural conditioning which defines our experience of the world. Deliberate self-wounding, to facilitate a return to the union with Cosmos and Chaos that we initially feel that we have lost. The benefits of this experience is an increased ability to survive, not by fighting the environment or becoming passively resigned to what happens to you, but understanding the basic unity of self and environment, and the extent to which one can be a self-determining agent.
+このプロセスへの意識は、今日「カオス・マジック」として知られるようになった現代的な精神的成長アプローチの中核をなしている。このアプローチでは、私たちの世界経験を形作っている信念構造や文化的条件づけを精査し、それらを取り除くことに焦点が置かれている。自らを意図的に傷つける行為──それは、私たちが本来つながっていたと感じていた宇宙（コスモス）と混沌（カオス）との一体感へ回帰するためのものである。
 
-Further Reading:
+この体験を通じて得られる恩恵とは、単に環境と戦ったり、受け身に運命を受け入れたりするのではなく、自己と環境の根本的な一体性を理解し、どこまで自分が自己決定的な存在となれるかを知ることである。
 
-Nightside of Eden - Kenneth Grant<br>
-Shamanic Voices - Joan Halifax<br>
-The Great Mother - Neumann<br>
-Fear & Loathing in Las Vegas - Hunter S. Thompson<br>
-Cities of the Red Night - William S. Burroughs<br>
-The Book of Pleasure - Austin Osman Spare<br>
-Thundersqueak - Angerford & Lea<br>
-The Masks of God - Joseph Campbell<br>
-An Introduction to Psychology - Hilgard, Atkinson & Atkinson<br>
-Liber Null - Pete Carroll<br>
-This essay was published in Nox Magazine, issue 6, 1988.<br>
+さらなる読書案内：
+
+『エデンの夜の側面』── ケネス・グラント
+『シャーマンたちの声』── ジョーン・ハリファックス
+『偉大なる母』── ネウマン
+『ラスベガスをやっつけろ』── ハンター・S・トンプソン
+『赤い夜の都市』── ウィリアム・S・バロウズ
+『悦楽の書』── オースティン・オズマン・スペア
+『サンダースクイーク』── アンガーフォード＆リー
+『神の仮面』── ジョーゼフ・キャンベル
+『心理学入門』── ヒルガード、アトキンソン＆アトキンソン
+『リベル・ヌル』── ピート・キャロル
+
+本稿は、Nox Magazine 第6号（1988年）に掲載されたものである。
+
 <div align="center">
   <img src="hine_evocation_pic_001.png" width="300">
 </div>
