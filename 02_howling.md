@@ -22,7 +22,7 @@ Commentary
 
 The Hierarchy of Human Needs
 
-Traditionally, Demons and Devils are organised according to ranks and hierarchies with Princes ruling lesser demons. The grimoires seem to imply that if Hell exists, then it is a bureaucracy, and so by the same token, Earthly bureaucracies are demonic structures - as anyone who has had any dealings with the DHSS will readily testify. The hierarchy used in the Babblogue was developed by the psychologist Abraham Maslow, to show how the various levels of need influence behaviour and motivation. His hierarchy of Human Needs is a pyramid of desires, ranging from biological survival needs (food, shelter, etc.) to more complex
+Traditionally, Demons and Devils are organised according to ranks and hierarchies with 'Princes' ruling lesser demons. The grimoires seem to imply that if Hell exists, then it is a bureaucracy, and so by the same token, Earthly bureaucracies are demonic structures - as anyone who has had any dealings with the DHSS will readily testify. The hierarchy used in the Babblogue was developed by the psychologist Abraham Maslow, to show how the various levels of 'need' influence behaviour and motivation. His hierarchy of Human Needs is a pyramid of desires, ranging from biological survival needs (food, shelter, etc.) to more complex
 needs: 
 
 Biological hunger, thirst, warmth<br>
@@ -33,13 +33,13 @@ Cognitive intellectual stimulation<br>
 Aesthetic culture, art<br>
 Self-Actualization self-knowledge<br>
 
-According to Maslow, the needs at one level must be at least partially fulfilled before those on the next level become important - so aesthetic needs are not usually high on the list when one is starving. One can become possessed by onessurvival demons, and consequentially able to perform actions one would otherwise not consider. Air crash survivors resorting to cannibalism is an extreme example of this. In attempting to strip away the layers of my own psyche in this way, I was struck by the Russian-doll nature of the demons - that the roots of a cognitive value could be traced downwards into the levels of self-esteem, affiliation, and survival needs.
+According to Maslow, the needs at one level must be at least partially fulfilled before those on the next level become important - so aesthetic needs are not usually high on the list when one is starving. One can become 'possessed' by one's survival demons, and consequentially able to perform actions one would otherwise not consider. Air crash survivors resorting to cannibalism is an extreme example of this. In attempting to strip away the layers of my own psyche in this way, I was struck by the 'Russian-doll' nature of the demons - that the roots of a cognitive value could be traced downwards into the levels of self-esteem, affiliation, and survival needs.
 
-This idea seems to be implied in the zoomorphic image of the man-beast. If we deny our demons then they are indeed outside and the self becomes a fortress, for an army at war with itself. In contrast, the Babblogue is a trial by catharsis, to understand and unify the dwellers within, rather than deny or subjugate them. 
+This idea seems to be implied in the zoomorphic image of the man-beast. If we deny our demons then they are indeed outside and the self becomes a fortress, for an army at war with itself. In contrast, the Babblogue is a trial by catharsis, to understand and unify the dwellers within, rather than deny or subjugate them. 
 
-The Shamans Journey
+The Shaman's Journey
 
-The central theme of all magical retirements of this nature is the journey within. Shamans world-wide, and the most powerful religious myths are concerned with this descent into chaos - the confrontation with death, the demon feast, trial by fire, communion with the dead - and the subsequent return - the realisation of power, and the subsequent return to Human affairs as an initiate. The core elements in this process can be summarised as follows:
+The central theme of all 'magical' retirements of this nature is the journey within. Shamans world-wide, and the most powerful religious myths are concerned with this descent into chaos - the confrontation with death, the demon feast, trial by fire, communion with the dead - and the subsequent return - the realisation of power, and the subsequent return to Human affairs as an initiate. The core elements in this process can be summarised as follows:
 
 Phase of Departure: Summons to depart, seperation from
 mundane life, descent.
