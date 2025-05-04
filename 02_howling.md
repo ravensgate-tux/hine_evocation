@@ -48,21 +48,21 @@ guides and allies.
 Illumination/Transformation
 Phase of Return: Rebirth, return to world.Mastery
 
-Awareness of this process is a central theme of the contemporary approach to development which has come to be known as Chaos Magick, an approach which focuses on the examination and removal of belief structures, the cultural conditioning which defines our experience of the world. Deliberate self-wounding, to facilitate a return to the union with Cosmos and Chaos that we initially feel that we have lost. The benefits of this experience is an increased ability to survive, not by fighting the environment or becoming passively resigned to what happens to you, but understanding the basic unity of self and environment, and the extent to which one can be a self-determining agent.
+Awareness of this process is a central theme of the contemporary approach to development which has come to be known as Chaos Magick, an approach which focuses on the examination and removal of belief structures, the cultural conditioning which defines our experience of the world. Deliberate self-wounding, to facilitate a return to the union with Cosmos and Chaos that we initially feel that we have lost. The benefits of this experience is an increased ability to survive, not by fighting the environment or becoming passively resigned to what happens to you, but understanding the basic unity of self and environment, and the extent to which one can be a self-determining agent.
 
 Further Reading:
 
-Nightside of Eden - Kenneth Grant
-Shamanic Voices - Joan Halifax
-The Great Mother - Neumann
-Fear & Loathing in Las Vegas - Hunter S. Thompson
-Cities of the Red Night - William S. Burroughs
-The Book of Pleasure - Austin Osman Spare
-Thundersqueak - Angerford & Lea
-The Masks of God - Joseph Campbell
-An Introduction to Psychology - Hilgard, Atkinson & Atkinson
-Liber Null - Pete Carroll
-This essay was published in Nox Magazine, issue 6, 1988.
+Nightside of Eden - Kenneth Grant<br>
+Shamanic Voices - Joan Halifax<br>
+The Great Mother - Neumann<br>
+Fear & Loathing in Las Vegas - Hunter S. Thompson<br>
+Cities of the Red Night - William S. Burroughs<br>
+The Book of Pleasure - Austin Osman Spare<br>
+Thundersqueak - Angerford & Lea<br>
+The Masks of God - Joseph Campbell<br>
+An Introduction to Psychology - Hilgard, Atkinson & Atkinson<br>
+Liber Null - Pete Carroll<br>
+This essay was published in Nox Magazine, issue 6, 1988.<br>
 
 <div align="center">
   <img src="hine_evocation_pic_001.png" width="300">
