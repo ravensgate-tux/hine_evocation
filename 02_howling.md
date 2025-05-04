@@ -39,14 +39,9 @@ This idea seems to be implied in the zoomorphic image of the man-beast. If we de
 
 The Shaman's Journey
 
-The central theme of all 'magical' retirements of this nature is the journey within. Shamans world-wide, and the most powerful religious myths are concerned with this descent into chaos - the confrontation with death, the demon feast, trial by fire, communion with the dead - and the subsequent return - the realisation of power, and the subsequent return to Human affairs as an initiate. The core elements in this process can be summarised as follows:
+The central theme of all 'magical' retirements' of this nature is the journey within. Shamans world-wide, and the most powerful religious myths are concerned with this descent into chaos - the confrontation with death, the demon feast, trial by fire, communion with the dead - and the subsequent return - the realisation of power, and the subsequent return to Human affairs as an initiate. The core elements in this process can be summarised as follows:
 
-Phase of Departure: Summons to depart, seperation from
-mundane life, descent.
-Phase of Initiation: Ordeals, the labyrinth, womb, whales belly,
-guides and allies.
-Illumination/Transformation
-Phase of Return: Rebirth, return to world.Mastery
+Phase of Departure: Summons to depart, seperation from mundane life, descent. Phase of Initiation: Ordeals, the labyrinth, womb, whales' belly, guides and allies. Illumination/Transformation Phase of Return: Rebirth, return to world.Mastery
 
 Awareness of this process is a central theme of the contemporary approach to development which has come to be known as Chaos Magick, an approach which focuses on the examination and removal of belief structures, the cultural conditioning which defines our experience of the world. Deliberate self-wounding, to facilitate a return to the union with Cosmos and Chaos that we initially feel that we have lost. The benefits of this experience is an increased ability to survive, not by fighting the environment or becoming passively resigned to what happens to you, but understanding the basic unity of self and environment, and the extent to which one can be a self-determining agent.
 
