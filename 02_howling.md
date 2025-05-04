@@ -98,7 +98,7 @@ This essay was published in Nox Magazine, issue 6, 1988.<br>
 
 こうして「縛りのアルファベット（alphabet of binding）」の形成が始まった。この作業の後半は、このアルファベットを用いた実験だった。悪魔たちを縛り、後に使うための魔術的武器へと封じるために。作業の初期段階が終わると、私はおよそ18時間眠り続け、蓄積された狂騒の譫妄からすっかり解放された状態で目を覚ました。
 
-Commentary
+解説
 
 人間の欲求階層について
 
@@ -118,7 +118,8 @@ Commentary
 
 このようにして自らの精神構造の層を一枚ずつ剥がしていく中で、私は悪魔たちの「マトリョーシカ（入れ子）構造」に気づかされた──たとえば、ある認知的価値の根っこを辿っていくと、それは自己評価や所属欲求、さらには生存欲求といったより根源的な層に連なっていたのである。
 
-This idea seems to be implied in the zoomorphic image of the man-beast. If we deny our demons then they are indeed outside and the self becomes a fortress, for an army at war with itself. In contrast, the Babblogue is a trial by catharsis, to understand and unify the dwellers within, rather than deny or subjugate them. 
+この考え方は、「人獣（マン＝ビースト）」という動物的象徴のイメージにも暗示されているように思える。もし私たちが自らの悪魔を否認すれば、それらはたしかに〈外側〉に位置づけられ、自己は自己と戦う軍隊のための要塞と化してしまう。
+それに対して〈バブログ〉は、カタルシス（浄化）による試練であり、内に棲まう存在たちを否定したり服従させたりするのではなく、理解し、統合するための試みである。
 
 シャーマンの旅路
 
@@ -134,16 +135,16 @@ This idea seems to be implied in the zoomorphic image of the man-beast. If we de
 
 さらなる読書案内：
 
-『エデンの夜の側面』── ケネス・グラント
-『シャーマンたちの声』── ジョーン・ハリファックス
-『偉大なる母』── ネウマン
-『ラスベガスをやっつけろ』── ハンター・S・トンプソン
-『赤い夜の都市』── ウィリアム・S・バロウズ
-『悦楽の書』── オースティン・オズマン・スペア
-『サンダースクイーク』── アンガーフォード＆リー
-『神の仮面』── ジョーゼフ・キャンベル
-『心理学入門』── ヒルガード、アトキンソン＆アトキンソン
-『リベル・ヌル』── ピート・キャロル
+『Nightside of Eden』── ケネス・グラント<br>
+『Shamanic Voices』── ジョーン・ハリファックス<br>
+『The Great Mother』── ネウマン<br>
+『Fear & Loathing in Las Vegas』── ハンター・S・トンプソン<br>
+『Cities of the Red Night』── ウィリアム・S・バロウズ<br>
+『The Book of Pleasure』── オースティン・オズマン・スペア<br>
+『Thundersqueak』── アンガーフォード＆リー<br>
+『The Masks of God』── ジョーゼフ・キャンベル<br>
+『An Introduction to Psychology』── ヒルガード、アトキンソン＆アトキンソン<br>
+『Liber Null 』── ピート・キャロル<br>
 
 本稿は、Nox Magazine 第6号（1988年）に掲載されたものである。
 
