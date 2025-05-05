@@ -18,7 +18,7 @@ Since GoHu became active, the following tales have reached back to my shell-like
 3. That I am, in reality, Peter J. Carroll (!!)
 4. That I was putting in a bid to buy a Goth nightclub in Birmingham (someone actually rang me up to ask me if this was 'true' (!)
 5. That I apparently sodomize former Chaos International editor Ian Read on a regular basis.(!)
-6. That I am a blood-drinking 'vampire' - this 'fact' is recounted in 2 books - Hearts of Darkness by John Parker (a socalled 'investigative journalist' who purports to examine modern occultism - in the wake of the 'Satanic Child Abus' scare) and The Worlds Greatest Unsolved Mysteries - I forget the authors offhand, but they are involved with ASSAP and the Society for Psychical Research. This one stems from a short story which deals with vampiric themes ublished in Chaos International, entitled Droplets. As it was written in the first person, apparently some people have chosen to believe it was me baring my soul. Oh dear!
+6. That I am a blood-drinking 'vampire' - this 'fact' is recounted in 2 books - Hearts of Darkness by John Parker (a socalled 'investigative journalist' who purports to examine modern occultism - in the wake of the 'Satanic Child Abus' scare) and The World's Greatest Unsolved Mysteries - I forget the authors offhand, but they are involved with ASSAP and the Society for Psychical Research. This one stems from a short story which deals with vampiric themes ublished in Chaos International, entitled Droplets. As it was written in the first person, apparently some people have chosen to believe it was me baring my soul. Oh dear!
 
 <div align="center">
   <img src="hine_evocation_pic_001.png" width="300">
