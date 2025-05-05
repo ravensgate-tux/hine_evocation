@@ -147,21 +147,89 @@ ICANDOOは、サーヴィター創造のための公開グループ・ワーク�
 色彩・香り・音・その他の感覚的メディアに含まれる象徴的意味も活用可能である。
 サーヴィターの基本プログラムをさらに洗練させたい場合は、基本となるシジルに他の象徴を重ねて装飾するとよい。
 
-4. Is there a Time Factor to Consider?
+4. 考慮すべき「時間要素」はあるか？
+（Is there a Time Factor to Consider?）
 
-Here, you should consider the duration of the Servitor's operation. In other words, do you want the Servitor to be working continuously, or only at specific periods? Here, you may wish to take into account phases of the moon, astrological conjunctions or planetary hours, for example, which could be added into the Servitor's symbolic instructions. The Healing Servitor above for example, was instructed to be active for a period of seven days, affecting it's target recipient for seven minutes, at seven hour intervals. This instruction serves to reinforce the number symbolism & association with harmony. It is also at this point that you should consider what happens after the Servitor has performed its task. It is generally held to be preferable that when a Servitor has completed its task, the Servitor should be disassembled by its creator. There are two approaches to doing this. Firstly, one can encode a self-destruct instruction into the Servitor at the time of it's creation, where the duration of its existence is defined in terms of the duration of its task, or the fulfilment of a specific condition. The other approach to disassembly is to perform a ritual reabsorption of the Servitor, mentally drawing it back from it's task, taking it apart by visualization, taking back the original desire which sparked it's creation, and taking apart or destroying any material base which you have created for it. Whilst classical occult theory has it that if you do not look after your thoughtforms,they will wander around the astral plane annoying people, there is good psychological sense for terminating the life of Servitors which have completed their assigned task - that you are reclaiming responsibility for that desire-complex which you used to create the Servitor.
+この段階では、サーヴィターの活動期間をどう設定するかを検討する。
+つまり、**サーヴィターに常時稼働してほしいのか、それとも特定の期間だけ働かせたいのか？**という問題である。
 
-5. Is A Name Required?
+ここでは、たとえば月相・占星術上の合（コンジャンクション）・惑星時刻などを考慮し、サーヴィターの象徴的インストラクションに組み込むこともできる。
 
-The Servitor can be given a name which can be used, in addition to its sigil, for creating, powering, or controlling it. A name also acts to further create a ervitor's persona. A name can reflect the Servitor's task, or be formed from a mantric sigil of it's Statement of Intent.
+前述のヒーリング・サーヴィターの例では、「7日間」稼働し、「7分間」ターゲットに作用し、それを「7時間おき」に繰り返すよう指示された。
+このような設定によって、「7」という数の象徴性と「調和」との連関が強化されることになる。
 
-6. Is a Material Base Required?
+また、この段階では「サーヴィターが任務を終えたあと、どうするか」を検討することも重要である。
+一般的には、サーヴィターが任務を完了した際には、創造者によって「解体（disassembly）」されるのが望ましいとされる。
 
-The Material base is some physical focus for the Servitor's existence. This can help to define the Servitor as an individual entity, and can be used if you need to recall the Servitor for any reason. Examples of a material base include bottles, rings, crystals, small figurines as used in fantasy role-playing or figures crafted from modelling compounds. Bodily fluids can be applied to the material base to increase the perceived link between creator and entity. This is very much a matter of personal taste. Alternatively, the Servitor can remain freely mobile as an aetheric entity. I tend to find that one-shot, task-specific servitors can be left as aetheric entities, whilst for entities which have more of along-term use, a material base is often helpful. For others, it might be possible to link their use to a specific, identifiable, state of consciousness, which forms part of the core associations which one builds up for a Servitor. It is also possible to link a Servitor to a specific smell, such as a perfume or essential oil, so that each time the oil is applied, the Servitor is activated. This can be particularly useful when creating Servitors for general Healing, Protection, or enhancement of a particular mood. A dab of the perfume can be put onto the Servitor's material base, and the perfume should be inhaled during the launch of the entity.
+これには主に二つのアプローチがある：
 
-7. Is a Specific Shape Required?
+自壊命令（self-destruct instruction）を事前に組み込む方法
+→ 任務の終了、あるいは特定の条件の達成をもって、サーヴィターが自動的に存在を終えるようにする。
 
-Servitors can be created to have any desired shape, from tiny homunculi to morphic spheres capable of extruding any required appendage. The shape you choose to  dentify with this particular thought-form can add another level of representational identity to the entity. A common practice though, is to visualize the Servitor as a featureless sphere, pulsing with energy, glowing with appropriately chosen colours, into which has been impressed, it's sigilised instructions.
+再吸収の儀式を行う方法（ritual reabsorption）
+→ サーヴィターを意識的に任務から呼び戻し、視覚化によって分解し、創造の動機となった欲望を自らに引き取り、物理的に用意した媒体（像や図像など）も破壊・処分する。
+
+古典的オカルティズムでは、「思念体を放置するとアストラル界をうろついて他人に迷惑をかける」ともされるが、
+心理的観点からも、自分の欲望複合体（desire-complex）への責任を回収する行為として、任務完了後のサーヴィターの終了は極めて合理的な行動である。
+
+5. 名前は必要か？
+（Is a Name Required?）
+
+サーヴィターには名前を与えることができる。これは、シジルと並んでその創造・起動・制御に使われる。
+
+また、名前はサーヴィターの「人格（ペルソナ）」を強化する働きもある。
+名前は、その任務にふさわしいものをつけてもいいし、意図の宣言（Statement of Intent）をもとに作成されたマントラ的シジルから導いてもよい。
+
+6. 物理的基盤（マテリアル・ベース）は必要か？
+（Is a Material Base Required?）
+
+物理的基盤（Material base）とは、サーヴィターの存在に対する物理的なフォーカスのことである。
+これはサーヴィターを個別の存在として明確化する助けとなり、たとえば何らかの理由でそのサーヴィターを再召喚したい場合にも有用である。
+
+物理的基盤の例としては：
+
+ボトル
+
+指輪
+
+水晶
+
+ファンタジーRPGで使われるような小さなフィギュア
+
+モデリング粘土などで作成した像 などがある。
+
+また、身体の分泌物（体液）をこの基盤に塗布することで、創造者とサーヴィターの間のつながりを強化することも可能である（※これは完全に個人の趣向に依存する）。
+
+一方で、サーヴィターはエーテル的存在として自由に漂わせておくこともできる。
+私個人の経験では、単発の任務に特化したサーヴィターは、物理的基盤なしでエーテル存在として放っておいて構わないが、
+より長期的な使用を想定する場合には、物理的基盤を設けると有効である。
+
+また、別の手法としては、そのサーヴィターの使用を特定の識別可能な意識状態と結びつけるというものもある。
+こうした状態は、サーヴィターに関する連想のコアの一部を構成することになる。
+
+さらに、サーヴィターを**特定の香り（香水やエッセンシャルオイルなど）**に結びつけることも可能である。
+この場合、香りを使用するたびにサーヴィターが起動されるという設定にできる。
+
+こうした手法は、特にヒーリング、防御、特定の感情状態を高めるためのサーヴィターを創造する際に効果的である。
+香水の一滴をサーヴィターの物理的基盤に塗布し、その香りを吸い込みながら起動（ローンチ）を行う、という方法がとられる。
+
+7. 特定の形状は必要か？
+（Is a Specific Shape Required?）
+
+サーヴィターは、望むかぎりどんな形状にもデザイン可能である。
+たとえば：
+
+小さなホムンクルス（人工生命体）
+
+必要に応じてあらゆる器官を伸縮させるモルフィック・スフィア（変形球体）
+
+など、創造者のイメージに沿った自由な形状を与えることができる。
+
+このようにその思念体（Thought-form）にどんな形を与えるかによって、存在にもう一段階の「象徴的アイデンティティ」を加えることができる。
+
+とはいえ、一般的な実践では、特徴のない球体としてサーヴィターを視覚化する手法がよく用いられる。
+この球体は適切に選ばれた色で発光し、エネルギーを脈打たせ、内部にシジル化された命令を刻み込まれた存在として描かれる。
+
 <div align="center">
   <img src="hine_evocation_pic_001.png" width="300">
 </div>
