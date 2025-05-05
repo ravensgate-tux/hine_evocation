@@ -27,6 +27,13 @@
 ---
 
 <details>
+<summary>🇬🇧 原文を表示（別ファイルで開く）</summary>
+
+🔗 [原文を読む](01_introduction_en.md)
+
+</details>
+
+<details>
 <summary>🇬🇧 原文を表示（クリックで展開）</summary>
 
 <pre>
