@@ -21,19 +21,17 @@
 
 ---
 
-## 📚 章構成とファイル一覧
+## 📚 目次
 
-各章は翻訳・注釈を含む Markdown ファイルに分割されています（ファイル名は後日アップ予定です）。
-
-| 章タイトル | 内容概要 | リンク |
+| タイトル | 内容概要 | リンク |
 |------------|-----------|------------------|
-| Introduction | 喚起魔術の出発点と著者の立場 | [01 👉](01_introduction.md) |
-| Howling | 内的悪魔との対話、変容の儀式 | [02 👉](02_howling.md) |
-| Servitors | サーヴィター創造と実践ガイド | [03 👉](03_servitors.md) |
-| GoHu Servitor | 噂の魔術的活用とユーモア | [04 👉](04_gohu_servitor.md) |
-| Functional Spirits | 日常における即興的エヴォケーション | [05 👉](05_functional_spirits.md) |
-| Goetia Project | 伝統魔術の検証と実験記録 | [06 👉](06_goetia_project.md) |
-| Evoking Yog-Sothoth | クトゥルー神話との接続と現代魔術理論 | [07👉](07_evoking_yog_sothoth.md) |
+| 1. 序文（Introduction） | 喚起魔術の出発点と著者の立場 | [👉](01_introduction.md) |
+| 2. ハウリング（Howling） | 内的悪魔との対話、変容の儀式 | [👉](02_howling.md) |
+| 3. サーヴィター（Servitors） | サーヴィター創造と実践ガイド | [👉](03_servitors.md) |
+| 4. GoHuサーヴィター（GoHu Servitor） | 噂の魔術的活用とユーモア | [👉](04_gohu_servitor.md) |
+| 5. 機能精霊（Functional Spirits） | 日常における即興的エヴォケーション | [👉](05_functional_spirits.md) |
+| 6. ゴエティア・プロジェクト（Goetia Project） | 伝統魔術の検証と実験記録 | [👉](06_goetia_project.md) |
+| 7. ヨグ＝ソトースの召喚（Evoking Yog-Sothoth） | クトゥルー神話との接続と現代魔術理論 | [👉](07_evoking_yog_sothoth.md) |
 
 ---
 
