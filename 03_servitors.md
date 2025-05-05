@@ -77,7 +77,7 @@ ICANDOOは、サーヴィター創造のための公開グループ・ワーク�
 - 一般的な防護ワーク
 
 
-サーヴィター設計の手順（Servitor Design Sequence）
+**サーヴィター設計の手順（Servitor Design Sequence）**
 
 1. 一般的意図の定義（Define General Intent）
 サーヴィターを設計する際の第一歩は、まずは、自分の意図がどのような領域に属するのかを明確にすることが出発点となる。
