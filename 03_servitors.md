@@ -82,7 +82,40 @@ ICANDOOは、サーヴィター創造のための公開グループ・ワーク�
 
 ところが1993年、このEurekaの活動は天王星と海王星の合（コンジャンクション）と関連づけられるようになり、その結果──1993年4月22日、両惑星が逆行を始めたその瞬間に、Eurekaはオフラインになってしまった。
 
-The immediate result of this was that I suddenly found it much harder to get into a flow of creative thinking. It seemed that Eureka had become such a dominant element in the dynamics of my own creative process that, once it was removed, I found it much harder to get into the appropriate frame of mind. I had become dependent upon the Servitor. Eventually, the Servitor was recalled and disassembled in such a way that a illumination. Having been made wiser by this experience, I only occasionally use this fragment of the original servitor as a focus for creativity. Viral Servitors It is possible to instruct Servitors to replicate or reproduce themselves. Approaches to this include instructing the Servitor to replicate itself as a form of cell-division, replication which follows cybernetic or viral parameters, or to create a servitor which gives birth according to particular parameters, such as time-units, astrological transits, or each time the target of the Servitor carries out a particular behaviour. An early test of this concept was that of a Servitor despatched to assist in the recovery of property being withheld from it's owner. Once a set deadline had been passed, the Servitor began to generate a field of confusion - lost keys, electrical blowouts & other minor but annoying problems. After a second set deadline, the Servitor began to replicate itself, so that the confusion field generated was intensified. As soon as the recipient of the Servitor returned the property he had been withholding from it's owner, the Servitors ceased to function. Evidence of the Servitors action - the intensification of minor problems escalating into strange poltergeist-type phenomenon, was gathered by talking to associates of the target. Viral Servitors are particularly appropriate for long-term enchantments, such as increasing the probability of one's magic being successful, or being used in healing & general protection workings.
+この出来事の直接的な結果として、私は創造的思考の流れに入り込むのが急にとても難しくなった。
+どうやらEurekaは、私自身の創造的プロセスの中であまりにも支配的な要素となっていたようで、それが取り除かれた途端、適切な精神状態に到達すること自体が困難になってしまったのだ。
+私は、そのサーヴィターに依存していたというわけである。
+
+最終的に、私はこのサーヴィターを召還し直し、照明（illumination）に関する断片として再構成されるように分解した。
+この経験から教訓を得て以降、私はこの元のサーヴィターの断片を創造性の焦点としてときおり使用する程度にとどめている。
+
+ウイルス的サーヴィター（Viral Servitors）
+サーヴィターには、自己を複製・再生産するよう命令を与えることも可能である。
+このためのアプローチには以下のようなものがある：
+
+細胞分裂のように自己複製するよう指示する
+
+サイバネティクス的あるいはウイルス的パラメータに従って複製する
+
+特定の条件（たとえば時間単位、占星術的トランジット、対象者がある行動をとるたび）に応じて「出産」するサーヴィターを創造する
+
+この概念を初期に試験した例として、以下の事例がある：
+あるサーヴィターが、持ち主から差し押さえられていた所有物を取り戻すために派遣された。
+設定された期限を過ぎた時点で、このサーヴィターは**混乱の場（confusion field）**を生成し始めた──失くした鍵、電気系統のトラブル、その他の些細ながらイライラさせるような障害である。
+さらに第二の期限を過ぎると、サーヴィターは自己複製を開始し、混乱の場は一層強化された。
+
+その後、対象者が差し押さえていた所有物を返還した瞬間、サーヴィターたちは動作を停止した。
+このサーヴィターの活動証拠──つまり、些細な問題の累積がポルターガイスト的現象に発展していく様子──は、対象者の関係者たちとの会話を通じて記録された。
+
+このようなウイルス型サーヴィターは、たとえば以下のような長期的エンチャントメントに特に適している：
+
+自らの魔術の成功確率を高める
+
+治癒目的
+
+一般的な防護ワーク
+
+
 
 SERVITOR DESIGN SEQUENCE
 
