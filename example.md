@@ -23,6 +23,9 @@ Back in the late 80's, Pagan At The Heart magazine announced to their readers th
 
 ### 🐌 「知られざる呪術師」による注釈
 
+- あれやこれや1
+- あれやこれや2
+- あれやこれや3
 
 ---
 
