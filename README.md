@@ -35,7 +35,8 @@
 
 ---
 
-📄 この文書について
+## 📄 この文書について
+
 本Zine『Aspects of Evocation ― フィル・ハイン著作 翻訳＋注釈』は、英国の現代魔術作家 Phil Hine によるエッセイ集 Aspects of Evocation の全章を対象に、翻訳・再解釈・注釈を加えた日本語版です。
 
 原文は1990年代にZee-CDプロジェクトやサークル・オブ・スターズ（Circle of Stars）、Esoteric Order of Dagon の文脈で発表されたものであり、現在オンライン上にて非商用目的で広く共有されています。作者本人による明確な著作権表示は確認されていませんが、その実践的スタンスと公開形式をふまえ、本Zineは 文化的再構築（cultural reconstruction） として制作されています。
