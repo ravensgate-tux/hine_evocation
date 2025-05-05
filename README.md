@@ -15,22 +15,12 @@
 
 ---
 <div align="center">
- <img src="hine_evocation.png" width="500">
+ <img src="hine_evocation.png" width="300">
 </div>
 
 ---
 
 ## 📚 目次
-
-| タイトル | 内容概要 | リンク |
-|------------|-----------|------------------|
-| 1. [序文（Introduction）](01_introduction.md)| 喚起魔術の出発点と著者の立場 | [👉](01_introduction.md) |
-| 2. [ハウリング（Howling）](02_howling.md) | 内的悪魔との対話、変容の儀式 | [👉](02_howling.md) |
-| 3. [サーヴィター（Servitors）](03_servitors.md) | サーヴィター創造と実践ガイド | [👉](03_servitors.md) |
-| 4. [GoHuサーヴィター（GoHu Servitor）](04_gohu_servitor.md)| 噂の魔術的活用とユーモア | [👉](04_gohu_servitor.md) |
-| 5. [機能精霊（Functional Spirits）](05_functional_spirits.md) | 日常における即興的エヴォケーション | [👉](05_functional_spirits.md) |
-| 6. [ゴエティア・プロジェクト（Goetia Project）](06_goetia_project.md) | 伝統魔術の検証と実験記録 | [👉](06_goetia_project.md) |
-| 7. [ヨグ＝ソトースの召喚（Evoking Yog-Sothoth）](07_evoking_yog_sothoth.md) | クトゥルー神話との接続と現代魔術理論 | [👉](07_evoking_yog_sothoth.md) |
 
 | タイトル | 内容 |
 |------------|-----------|
