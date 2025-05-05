@@ -32,7 +32,6 @@
 ---
 
 <details>
-  
 <summary>🇬🇧 原文を表示（クリックで展開）</summary>
 
 ```markdown
@@ -46,7 +45,8 @@ During this project, I found my interests returning to a recurrent obsession - t
 In a way, I was prompted to 'specialise' in methods of Evocation by virtue of the fact that at the time, I hadn't encountered much in the way of useful information concerning this magical practice. In the minds of some occultists, evocation seems inextricably linked with 'calling up demons' and the notion that it constitutes 'black magic' - a notion much in favour with those who have been exposed to too many Dennis Wheatley novels! Fortunately, the rise of a more eclectic approach to practical magic, in which I feel the so-called Chaos Magic movement has palyed a significant part, has done much to banish the old dogmas surrounding what is after all, a very practical and useful set of magical techniques.
 
 Phil Hine, March 1998
-```
+
 </details>
+```
 
 ---
