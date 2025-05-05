@@ -46,10 +46,6 @@ In a way, I was prompted to 'specialise' in methods of Evocation by virtue of th
 
 Phil Hine, March 1998
 
-<div align="center">
-  <img src="hine_evocation_pic_001.png" width="300">
-</div>
-
 </details>
 
 ---
