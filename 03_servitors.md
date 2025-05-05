@@ -116,20 +116,36 @@ ICANDOOは、サーヴィター創造のための公開グループ・ワーク�
 - 一般的な防護ワーク
 
 
-SERVITOR DESIGN SEQUENCE
+サーヴィター設計の手順（Servitor Design Sequence）
 
-1. Define General Intent
+1. 一般的意図の定義（Define General Intent）
+サーヴィターを設計する際の第一歩は、自分の意図がどのような領域に属するのかを決定することである。
+たとえば、癒し・防護・拘束・調和・幸運・占術・気分の改善・特定の分野での成功などがその例だ。
 
-The first step in designing a Servitor is to decide the general sphere of influence into which your intention falls, such as healing, protection, binding, harmony, luck, divination, mood enhancement, success in ...., and so forth. Defining your general intent will assist you if you wish to use symbols & magical correspondences in creating your servitor. For example, if you were interested in creating a servitor to act within the sphere of Healing, then you could assemble any associations, symbols, emotions, memories, etc which you relate to the concept of Healing. By consulting a book of magical correspondences such as '777', you could build up chains of correspondences - planetary figures, scents, colours, planetary hours etc. How far you go in this direction is very much a matter of personal choice.
+このような「一般的意図」を明確にすることは、サーヴィターを創造する際に象徴や魔術的対応関係（コレスポンデンス）を用いたい場合に大きな助けになる。
+たとえば「癒し」の領域で作用するサーヴィターを作りたいのであれば、自分にとって癒しという概念と関連する象徴・感情・記憶・イメージなどを集めてみるとよい。
 
-2. Defining Specific Intent
+さらに、『777』のような魔術的対応表の書籍を参照すれば、惑星的象徴、香り、色彩、惑星時刻などのコレスポンデンスの連鎖を構築することができる。
+このような要素をどの程度取り入れるかは、完全に個人の選択次第である。
 
-Here, you are creating the core of the Servitor's purpose the Statement of Intent which is analogous to the Servitor's aetheric DNA. Formulating the Servitor's Statement of Intent may necessitate a good deal of self-analysis into your motivations, desires, realistic projections of goals, etc. As in all sorcery operations, it is appropriate to ask advice from your preferred form of divination. To continue the example of a Healing Servitor, an appropriate Statement of Intent might be:
-To promote rapid recovery and health in ...(name)... Once you have determined the appropriate Intent to form the basis of your Servitor, then the Statement can be rendered into a sigil, or glyph..
+2. 具体的意図の定義（Defining Specific Intent）
+ここで行うのは、サーヴィターの中核的な目的──**意図の宣言（Statement of Intent）**の作成である。
+これは、サーヴィターにおける「エーテル的DNA」ともいえる存在である。
 
-3. What Symbols Are Appropriate to the Servitor's Task?
+意図の宣言を明確にするためには、自分自身の動機、願望、達成可能な目標の現実的見積もりなどに関して深い自己分析を行う必要があるだろう。
+すべてのソーサリー的実践と同様に、ここでもお気に入りの占術による助言を求めることが適切である。
 
-There is a wealth of magical & mythic symbols which you can draw upon when creating a servitor, which can be used to represent different qualities, abilities and attributes. There is lso the symbolism of colour, smell, sound & other sensory media to draw upon. In order to refine the program which forms the basis for your servitor further, you could embellish the sigil by adding other symbols.
+先ほどの「癒しのサーヴィター」を例にすれば、以下のような意図の宣言が考えられる：
+
+「◯◯の迅速な回復と健康促進を支援するために」
+
+意図が決まったら、それをもとにシジルやグリフ（紋章）として視覚化することも可能だ。
+
+3. 任務にふさわしい象徴とは？（What Symbols Are Appropriate to the Servitor's Task?）
+サーヴィター創造の際には、魔術的・神話的な象徴体系の膨大なアーカイブから、任務にふさわしい特性・能力・資質を表現するための象徴を取り入れることができる。
+
+色彩・香り・音・その他の感覚的メディアに含まれる象徴的意味も活用可能である。
+サーヴィターの基本プログラムをさらに洗練させたい場合は、基本となるシジルに他の象徴を重ねて装飾するとよい。
 
 4. Is there a Time Factor to Consider?
 
