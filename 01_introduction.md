@@ -26,7 +26,12 @@
 
 ---
 
+© 2025 知られざる呪術師（Le Sorcier Inconnu）
+本ドキュメントは Creative Commons BY-SA 4.0 に基づき公開されています。
+
+---
 <details>
+  
 <summary>🇬🇧 原文を表示（クリックで展開）</summary>
 
 ```markdown
@@ -44,7 +49,6 @@ Phil Hine, March 1998
 <div align="center">
   <img src="hine_evocation_pic_001.png" width="300">
 </div>
-
 
 </details>
 
