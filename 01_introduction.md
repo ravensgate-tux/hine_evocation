@@ -30,6 +30,7 @@
 本ドキュメントは Creative Commons BY-SA 4.0 に基づき公開されています。
 
 ---
+
 <details>
   
 <summary>🇬🇧 原文を表示（クリックで展開）</summary>
