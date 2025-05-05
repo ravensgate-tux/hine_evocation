@@ -14,6 +14,11 @@
 
 ---
 
+© 2025 知られざる呪術師（Le Sorcier Inconnu）
+本ドキュメントは Creative Commons BY-SA 4.0 に基づき公開されています。
+
+---
+
 <details>
 <summary>🇬🇧 原文を表示（クリックで展開）</summary>
 
@@ -28,6 +33,3 @@ Back in the late 80's, Pagan At The Heart magazine announced to their readers th
 </details>
 
 ---
-
-© 2025 知られざる呪術師（Le Sorcier Inconnu）
-本ドキュメントは Creative Commons BY-SA 4.0 に基づき公開されています。
