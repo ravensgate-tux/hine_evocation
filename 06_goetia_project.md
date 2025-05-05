@@ -27,7 +27,7 @@ Incidents such as these led us to postulate that the LK spirits tended to a cert
 
 ──とはいえ、当然ながら、物事は計画通りには進まなかった。
 
-私たちが最初に行った一連の作業は、**『ソロモンの小鍵（Lesser Key of Solomon）』**に基づくものであった。
+私たちが最初に行った一連の作業は、『ソロモンの小鍵（Lesser Key of Solomon）』に基づくものであった。
 最初の召喚対象は、精霊ヴァッサゴ（Vassago）であり、
 この作業は伝統的な円や三角形などの配置を一切用いずに実施された。
 ──言うなれば、「何が起きるか」を試すための実験だった。
