@@ -32,8 +32,6 @@
 | 6. [ゴエティア・プロジェクト（Goetia Project）](06_goetia_project.md) | 伝統魔術の検証と実験記録 |
 | 7. [ヨグ＝ソトースの召喚（Evoking Yog-Sothoth）](07_evoking_yog_sothoth.md) | クトゥルー神話との接続と現代魔術理論 | 
 
-[example](example.md)
-
 ---
 
 ## 📦 原文のライセンスと出典について
