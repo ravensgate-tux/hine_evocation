@@ -63,7 +63,10 @@ tape!
 - [グラント・モリスン『BATMAN R.I.P.』から読み解く「深淵」と「降下」Zine](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
 - [📚 Le Sorcier Inconnuの書架──翻訳と注釈の目録](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md)
   
-----
+---
 
-© 2025 知られざる呪術師（Le Sorcier Inconnu）
-本ドキュメントは Creative Commons BY-SA 4.0 に基づき公開されています。
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
+
+---
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
