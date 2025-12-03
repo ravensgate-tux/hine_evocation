@@ -6,10 +6,11 @@
 
 <div align="right">
 
-**by 知られざる呪術師（*Le Sorcier Inconnu*）**
 
-🪐ディスコーディアン暦3191年 星辰の歪む第五火曜日<br>
-――古きものが夢から目覚め名状しがたき触手🦑 が海面から現れる日
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
 
 </div>
 
