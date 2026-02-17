@@ -26,7 +26,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 | タイトル | 内容 |
 |------------|-----------|
 | 1. [序文（Introduction）](01_introduction.md)| 喚起魔術の出発点と著者の立場 | 
-| 2. [ハウリング（Howling）](02_howling.md) | 内的悪魔との対話、変容の儀式 |
+| 2. [ハウリング（Howling）](02_howling.md) | 内的デーモンとの対話、変容の儀式 |
 | 3. [サーヴィター（Servitors）](03_servitors.md) | サーヴィター創造と実践ガイド | 
 | 4. [GoHuサーヴィター（GoHu Servitor）](04_gohu_servitor.md)| 噂の魔術的活用とユーモア | 
 | 5. [機能精霊（Functional Spirits）](05_functional_spirits.md) | 日常における即興的エヴォケーション | 
